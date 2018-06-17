@@ -1,0 +1,19 @@
+{
+  "name": "rpg-game-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-character.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinebonk/rpg-game-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinebonk/rpg-game-2/issues"
+  },
+  "homepage": "https://github.com/christinebonk/rpg-game-2#readme"
+}

@@ -1,0 +1,38 @@
+{ 
+    "blob": {
+        "name": "blob",
+        "hp": 80,
+        "mp": 50,
+        "strength": 3,
+        "agility": 5,
+        "ability": "consume",
+        "level": 1
+    },
+    "goblin": {
+        "name": "goblin",
+        "hp": 100,
+        "mp": 10,
+        "strength": 8,
+        "agility": 2,
+        "ability": "monster mash",
+        "level": 2
+    },
+    "warewolf": {
+        "name": "warewolf",
+        "hp": 130,
+        "mp": 30,
+        "strength": 10,
+        "agility": 8,
+        "ability": "monster mash",
+        "level": 3
+    },
+    "spider": {
+        "name": "spider",
+        "hp": 75,
+        "mp": 20,
+        "strength": 6,
+        "agility": 8,
+        "ability": "monster mash",
+        "level": 4
+    }
+}
